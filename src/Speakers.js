@@ -10,7 +10,7 @@ const Speakers = () => {
 
         <section className='world'>
             <p>SPEAKERS</p>
-            <img className='images' src={worl}></img>
+            <img className='images' src={worl} alt="speaker"></img>
             <Link className='chick'>World-Class Speakers</Link>
             <p>Joining us from all around the world are over twenty fantastic speakers, here to share their stories.</p>
         </section>
@@ -21,7 +21,7 @@ const Speakers = () => {
 
         <section className='world'>
         <p>SCHEDULE</p>
-        <img className='images' src={chicago}></img>
+        <img className='images' src={chicago} alt="audience"></img>
         <Link className='chick'>Three Inspiring Days</Link>
         <p>Enjoy three inspiring and action-packed days of tals, gatherings, and all-around good times.</p>
 
@@ -41,7 +41,7 @@ const Speakers = () => {
 
         <section className='world'>
         <p>VENUE</p>
-        <img className='images' src={ven}></img>
+        <img className='images' src={ven} alt="chicago"></img>
         <Link className='chick'>The Chicago Theater</Link>
         <p>Within the heart of downtown Chicago, The Chicago Theatre will provide a beautiful conference venue.</p>
 

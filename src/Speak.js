@@ -45,7 +45,7 @@ const Speak = () => {
 
             <p className='tits'>ABOUT ADAM</p>
 
-            <p className='para'>Adam Connor is a designer, illustrator and speaker passionate about collaboration, communication, creativity and storytelling. As an Experience Design Director with Mad*Pow, Adam combines 10+ years of experience in interaction and experience design with a background in computer science, film, and animation to create effective and easy-to-use digital products and services. He believes that no matter how utilitarian a tool is, at the core of its creation lies a story; uncovering that story is key to its success. Occasionally, he shares his perspectives on design at <span><a href="">adamconnor.com</a> and <a href="">discussingdesign.com</a></span> </p>
+            <p className='para'>Adam Connor is a designer, illustrator and speaker passionate about collaboration, communication, creativity and storytelling. As an Experience Design Director with Mad*Pow, Adam combines 10+ years of experience in interaction and experience design with a background in computer science, film, and animation to create effective and easy-to-use digital products and services. He believes that no matter how utilitarian a tool is, at the core of its creation lies a story; uncovering that story is key to its success. Occasionally, he shares his perspectives on design at <span><a href="adamconnor.com">adamconnor.com</a> and <a href="discussingdesign.com">discussingdesign.com</a></span> </p>
 
           </section>
 

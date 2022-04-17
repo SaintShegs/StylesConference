@@ -1,5 +1,4 @@
 import React from 'react'
-import { Map, GoogleApiWrapper } from 'google-map-react';
 
 
 const Venue = () => {
